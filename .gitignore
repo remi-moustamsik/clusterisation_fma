@@ -1,0 +1,18 @@
+*.csv
+*.pt
+fma_small/
+fma_metadata/
+fma_metadata.zip
+fma_small.zip
+lock-env/
+precomputed_mels/
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers d'outils
+.env
+*.log
